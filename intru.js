@@ -17,3 +17,13 @@ var given = 119 ;
 var reminderNumber = 119 % 5 ;
 
 console.log(reminderNumber);
+
+// Task 4
+var a = isNaN('11')
+
+console.log(a)
+
+var b = isNaN(2-10);
+
+console.log(b);
+// Explain my ans: NaN means Not a Number .. number jodi hoi tahole eta false dekhabe.. kintu jodi string hoi tahole eta true dekhabe . 
